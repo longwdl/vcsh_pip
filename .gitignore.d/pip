@@ -1,0 +1,6 @@
+*
+!.pip/pip.conf
+!.gitignore.d/
+!.gitignore.d/pip
+!.LICENSES.d/
+!.LICENSES.d/pip
